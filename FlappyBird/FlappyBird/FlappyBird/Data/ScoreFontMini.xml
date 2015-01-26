@@ -1,0 +1,15 @@
+﻿<f2dTexturedFont>
+  <Measure LineHeight="32" Ascender="25" Descender="7" />
+  <CharList>
+    <Item Char="0" Advance="25,0" BrushPos="0,25" Pos="0,0"    Size="25,32" />
+    <Item Char="1" Advance="25,0" BrushPos="0,25" Pos="25,0"   Size="25,32" />
+    <Item Char="2" Advance="25,0" BrushPos="0,25" Pos="50,0"   Size="25,32" />
+    <Item Char="3" Advance="25,0" BrushPos="0,25" Pos="75,0"  Size="25,32" />
+    <Item Char="4" Advance="25,0" BrushPos="0,25" Pos="100,0"  Size="25,32" />
+    <Item Char="5" Advance="25,0" BrushPos="0,25" Pos="0,32"   Size="25,32" />
+    <Item Char="6" Advance="25,0" BrushPos="0,25" Pos="25,32"  Size="25,32" />
+    <Item Char="7" Advance="25,0" BrushPos="0,25" Pos="50,32"  Size="25,32" />
+    <Item Char="8" Advance="25,0" BrushPos="0,25" Pos="75,32" Size="25,32" />
+    <Item Char="9" Advance="25,0" BrushPos="0,25" Pos="100,32" Size="25,32" />
+  </CharList>
+</f2dTexturedFont>

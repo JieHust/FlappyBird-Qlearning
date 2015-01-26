@@ -1,0 +1,18 @@
+﻿<fancyUIStyle>
+  <Font Name="ScoreFont" TexSrc="Images\ScoreFont.png" Define="ScoreFont.xml" />
+  <Font Name="ScoreFontMini" TexSrc="Images\ScoreFontMini.png" Define="ScoreFontMini.xml" />
+  <Sprite Name="StatisticsImg"  Src="Images\Statistics.png" />
+  <Sprite Name="ScoreBoardImg"  Src="Images\ScoreBoard.png" Rect="0,0,349,182" />
+  <Sprite Name="NewMaxScoreImg" Src="Images\ScoreBoard.png" Rect="0,182,48,203" />
+  <Sprite Name="GetReadyImg" Src="Images\Hint.png" Rect="0,0,300,92" />
+  <Sprite Name="GameOverImg" Src="Images\Hint.png" Rect="0,92,300,173" />
+  <Sprite Name="HintImg"     Src="Images\Hint.png" Rect="0,173,230,320" />
+  <Sprite Name="WhiteImg" Src="Images\WhiteMask.png" />
+  <Sprite Name="BlackImg" Src="Images\BlackMask.png" />
+  <Sprite Name="PlayAgain_Default" Src="Images\Buttons.png" Rect="0,0,178,105" />
+  <Sprite Name="PlayAgain_Actived" Src="Images\Buttons.png" Rect="0,105,178,210" />
+  <Sprite Name="PlayAgain_Clicked" Src="Images\Buttons.png" Rect="0,210,178,315" />
+  <Sprite Name="ShowScore_Default" Src="Images\Buttons.png" Rect="178,0,356,105" />
+  <Sprite Name="ShowScore_Actived" Src="Images\Buttons.png" Rect="178,105,356,210" />
+  <Sprite Name="ShowScore_Clicked" Src="Images\Buttons.png" Rect="178,210,356,315" />
+</fancyUIStyle>
