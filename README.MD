@@ -38,4 +38,4 @@ AI 程序为单个 CPP 程序，相关**宏定义**保持与原作品中相同�
 
 #### 说明文档
 
-原理和相关细节详见[此处](http://jiehust.github.io/machine%20learning/2015/01/26/Playing-Flappy-Bird-using-Q--learning/)
+原理和相关细节详见[此处](http://jiehust.github.io/machine%20learning/2015/01/26/Hacking-Flappy-Bird-using-Q-learning/)
